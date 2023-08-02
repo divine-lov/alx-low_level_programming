@@ -5,7 +5,7 @@
  *
  * @s1: pointer to the first string
  *
- * @s2: pointer to the second string, which can contain a * as a special character
+ * @s2: pointer to the second string, which can contain a *
  *
  * Return: 1 if the strings are identical, 0 if not
  */
